@@ -1,0 +1,12 @@
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.deps.json
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.json
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.dev.json
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.dll
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.pdb
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfoInputs.cache
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfo.cs
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.dll
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.pdb
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.genruntimeconfig.cache
+/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csprojAssemblyReference.cache
