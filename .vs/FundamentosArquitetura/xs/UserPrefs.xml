@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{04458335-BD7D-4E10-A11C-A67C3CAE652B}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{04458335-BD7D-4E10-A11C-A67C3CAE652B}|Default">
   <MonoDevelop.Ide.ItemProperties.01_220-_220OOP.OOP PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/01 - Creational/1.2 - Factory Method/OracleDbConnector.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/Connection.cs" Line="1" Column="1" />
       <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DataBase.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbConnector.cs" Line="1" Column="1" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbConnector.cs" Line="4" Column="27" />
       <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbFactory.cs" Line="1" Column="1" />
       <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/ExecucaoFactoryMethod.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/OracleDbConnector.cs" Line="1" Column="1" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/OracleDbConnector.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
