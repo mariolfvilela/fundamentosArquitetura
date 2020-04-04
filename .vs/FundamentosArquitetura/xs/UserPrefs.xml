@@ -1,28 +1,24 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{04458335-BD7D-4E10-A11C-A67C3CAE652B}|Default">
-  <MonoDevelop.Ide.ItemProperties.01_220-_220OOP.OOP PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{21A5C7F7-02E5-409D-BE21-783FFCA37F42}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/Connection.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DataBase.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbConnector.cs" Line="4" Column="27" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbFactory.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/ExecucaoFactoryMethod.cs" Line="1" Column="1" />
-      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/OracleDbConnector.cs" Line="12" Column="1" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DataBase.cs" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbConnector.cs" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/DbFactory.cs" />
+      <File FileName="DesignPatterns/01 - Creational/1.2 - Factory Method/OracleDbConnector.cs" />
+      <File FileName="DesignPatterns/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FundamentosArquitetura" expanded="True">
-            <Node name="05 - Design Patterns" expanded="True">
-              <Node name="DesignPatterns" expanded="True">
-                <Node name="01 - Creational" expanded="True">
-                  <Node name="1.2 - Factory Method" expanded="True">
-                    <Node name="OracleDbConnector.cs" selected="True" />
-                  </Node>
-                  <Node name="1.3 - Singleton" expanded="True" />
-                </Node>
-              </Node>
+            <Node name="01 - OOP" expanded="True" />
+            <Node name="02 - Modificadores" expanded="True" />
+            <Node name="03 - SOLID" expanded="True">
+              <Node name="SOLID" selected="True" />
             </Node>
+            <Node name="04 - DI" expanded="True" />
+            <Node name="05 - Design Patterns" expanded="True" />
           </Node>
         </State>
       </Pad>

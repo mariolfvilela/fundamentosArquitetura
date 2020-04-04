@@ -9,4 +9,3 @@
 /Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.dll
 /Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.pdb
 /Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.genruntimeconfig.cache
-/Users/mario/Projects/Fundamentos de Arquitetura de Software/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csprojAssemblyReference.cache
